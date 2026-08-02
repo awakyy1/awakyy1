@@ -16,47 +16,29 @@
 
 ## About
 
-Mid-level Software Engineer with professional experience across backend and full-stack development, automation, REST APIs, relational databases, data workflows, observability, and production systems.
+Mid-level Software Engineer with experience in backend and full-stack development, automation, REST APIs, relational databases, data workflows, observability, and production systems.
 
-I hold a bachelor's degree in Software Engineering and work with multidisciplinary engineering challenges, from building and integrating applications to investigating incidents and improving operational visibility. I value maintainable code, clear documentation, and reliable systems.
+Bachelor's degree in Software Engineering. I build and integrate applications, automate operational workflows, investigate production issues, and improve system reliability.
 
-## Engineering Focus
+## Stack
 
-- Backend services, REST APIs, integrations, and internal platforms
-- Automation, API validation, and repetitive workflow reduction
-- Relational databases, data pipelines, and production troubleshooting
-- Linux environments, containers, monitoring, and observability
-- Full-stack development for operational and business applications
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,ts,js,nodejs,angular,react,cs,dotnet,postgres,docker,aws,linux,grafana,prometheus,git,github,vscode&perline=9" alt="Python, Django, TypeScript, JavaScript, Node.js, Angular, React, C Sharp, .NET, PostgreSQL, Docker, AWS, Linux, Grafana, Prometheus, Git, GitHub, and VS Code">
+</p>
 
-## Technical Toolbox
+<p align="center">
+  MariaDB | Airflow | dbt | Zabbix | Checkmk | Selenium | REST APIs
+</p>
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Python, TypeScript, JavaScript, C#, SQL |
-| Backend & APIs | Django, Django REST Framework, Node.js, REST APIs, system integrations |
-| Frontend | Angular, React, HTML, CSS |
-| Databases & Data | PostgreSQL, MariaDB, Airflow, dbt |
-| Infrastructure | Linux, Docker, AWS, servers, VPS, CI/CD |
-| Observability | Zabbix, Checkmk, Prometheus, Grafana |
-| Automation & Quality | Selenium, automation scripts, API validation, incident investigation |
+## Featured Projects
 
-## Selected Projects
-
-| Project | Stack | Highlights |
-| --- | --- | --- |
-| [Network Inventory & Review](https://github.com/awakyy1/TCC) | Python, Nmap, Zabbix | Authorized network inventory, structured findings, dashboards, and monitoring integration |
-| [Team Submission Platform](https://github.com/awakyy1/Trabalho-laravel) | PHP, Laravel, SQL | Team management, submissions, version history, comments, authorization, and automated tests |
-| [Guess Who](https://github.com/awakyy1/Guess-who-) | JavaScript, HTML, CSS | Browser-based character game with deterministic selection logic and automated tests |
+- **[Network Inventory & Review](https://github.com/awakyy1/TCC):** Python, Nmap, Zabbix, structured findings, and monitoring integration.
+- **[Team Submission Platform](https://github.com/awakyy1/Trabalho-laravel):** Laravel application with teams, submissions, version history, authorization, and tests.
+- **[Guess Who](https://github.com/awakyy1/Guess-who-):** Browser game with deterministic selection logic and automated tests.
 
 ## Languages
 
-- Portuguese: Native
-- English: Fluent / Professional Working Proficiency
-- Japanese: JLPT N4 certified
-
-## Relocation to Japan
-
-I am currently based in Brazil and looking for opportunities that support relocation and employer-sponsored work authorization in Japan. I am open to living in any region of the country and working with international or English-speaking engineering teams.
+**Portuguese:** Native | **English:** Fluent | **Japanese:** JLPT N4 certified
 
 ## Contact
 
