@@ -1,27 +1,32 @@
-![github-header-image](https://i.imgur.com/DBqjPPQ.png)
+# Joao Ielen
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=FFA4C7&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);%3Eecho+%22Hello%2C+World!%22;%3EConsole.WriteLine(%22Hello%2C+World!%22);%3Ecout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+endl;%3Econsole.log(%22Hello%2C+World!%22);%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'ielen';" alt="Typing SVG" />
-</a>
+Mid-level Software Engineer based in Brazil, working across backend and full-stack development, automation, APIs, databases, data workflows, observability, and production systems.
 
+I hold a bachelor's degree in Software Engineering. I am open to relocating anywhere in Japan and require employer-sponsored work authorization.
 
-<p align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=awakyy1&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="ilustração do status do github">
-  
-<img
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=awakyy1&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true"
-        alt="Github Stats"
-      />
-</p>
+## Focus
 
+- Backend services, REST APIs, integrations, and internal platforms
+- Automation, data workflows, databases, and production reliability
+- Linux, containers, monitoring, and observability
+- Maintainable systems with clear documentation and operational ownership
 
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,supabase,html,css,tailwind,remix,bun,git,figma,vscode)](https://skillicons.dev)
-</div>
+## Languages
 
-<div align="center">
+- Portuguese: native
+- English: fluent/professional
+- Japanese: approximately JLPT N4 level (not presented as an official certification)
 
-[![Static Badge](https://img.shields.io/badge/website-black)]()
-[![Static Badge](https://img.shields.io/badge/linkedin-black)]()
-</div>
+## Selected repositories
+
+- [TCC](https://github.com/awakyy1/TCC): defensive network inventory and security findings dashboard
+- [Portifolio-template](https://github.com/awakyy1/Portifolio-template): bilingual software engineering portfolio template
+- [Trabalho-laravel](https://github.com/awakyy1/Trabalho-laravel): Laravel team and submission workflow project
+- [Guess-who-](https://github.com/awakyy1/Guess-who-): browser-based Guess Who game
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/joaoielen/)
+- [GitHub](https://github.com/awakyy1)
+
+> Repository cleanup is in progress. Older classroom exercises are retained for learning history and are not representative of current production work.
