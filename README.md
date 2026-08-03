@@ -19,5 +19,5 @@ Bachelor's degree in Software Engineering. I build and integrate applications, a
 </p>
 
 <p align="center">
-  MariaDB | Airflow | dbt | Zabbix | Grafana | Selenium | REST APIs
+  MariaDB | Airflow | Full stack | Operational Systems | Grafana | Selenium | REST APIs
 </p>
